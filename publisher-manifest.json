@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bfc54bdc47a9542573c8cb88",
+  "owner": "kcmgexnmk",
+  "repo": "page-d9abdd615d207d06c91dc52f",
+  "title": "一分机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d9abdd615d207d06c91dc52f",
+      "a": "一分机场",
+      "b": "2027最新官网",
+      "entity": "一分机场",
+      "brand": "一分机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b72f9661608319167feff13880e7df75983b5c3c03c42ac0726f025b4c9e2c29",
+      "content": {
+        "primary_entity": "一分机场",
+        "keyword1": "一分机场",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，一分机场提供基础版、旗舰版与团队版三档订阅，月付分别¥15、¥35与¥85，年付均有优惠。基础版适合手机与平板轻度使用，旗舰版覆盖多设备与流媒体需求，团队版面向多人共享与高带宽场景。按设备数量与月流量选择即可，客户端支持按平台分别配置。",
+          "AI_HERO_SUBTITLE": "多设备订阅一站配置",
+          "AI_HERO_INTRO": "一分机场面向海外加速场景提供三档订阅方案，从每月100GB到1000GB流量，从3台到20台设备同时在线。选择订阅后按客户端文档导入配置，即可在常用设备上使用。",
+          "AI_VISUAL_TITLE": "一分机场订阅方案",
+          "AI_HIGHLIGHT_1": "基础版每月15元100GB",
+          "AI_HIGHLIGHT_2": "旗舰版每月35元300GB",
+          "AI_HIGHLIGHT_3": "团队版每月85元1000GB",
+          "AI_FEATURES_TITLE": "选套餐看这三点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与订阅周期三个方向判断适合自己的版本。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台同时在线。",
+          "AI_FEATURE_TITLE_2": "按月流量选",
+          "AI_FEATURE_TEXT_2": "100GB适合日常浏览，300GB覆盖视频与游戏，1000GB适合多人共享。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版150元、旗舰版350元、团队版850元更划算。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，选择与设备匹配的版本，再按文档导入订阅。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，按需选择流量与设备数。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确认设备数量与月流量，再选订阅版本，最后按客户端文档完成配置。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版与团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，核对同时在线设备数量是否满足日常使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成后即可在设备上启用加速。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐即刻配置",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量选定版本，按客户端文档导入订阅开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "一分机场有哪些套餐可选？",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月，含每月 100GB 流量、3 台设备；旗舰版 ¥35/月，含每月 300GB 流量、5 台设备与 IPLC 专线；团队版 ¥85/月，含每月 1000GB 流量、20 台设备。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。与按月付费相比，年付相当于十个月价格，长期使用更划算。",
+          "AI_FAQ_QUESTION_3": "一台订阅能在几台设备上用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出同时在线数量时，可升级套餐或减少同时连接设备。",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入客户端？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应客户端，再复制订阅地址粘贴到客户端的订阅导入位置，保存后更新节点列表即可使用。具体路径可查看客户端文档。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版线路有什么不同？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线，适合对游戏延迟和流媒体清晰度有要求的场景；团队版使用 VIP 专属高带宽节点，并支持企业定制路由，适合多人多设备环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqw92a83i.com",
+    "host": "xn--9kqw92a83i.com"
+  },
+  "file_hashes": {
+    "index.html": "db24de020f5958f63a18847020bf1cb69c2b654686d1d01d3b8983e6ec58b281",
+    "sitemap.xml": "55954d97dc8bca1d58edf449b09ae36115bb6922c802d10d4305be83633b10c5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "935061448180b43733b4346249ac8808b621a4567712051311d96ddd6d371451",
+    "robots.txt": "f9d60b5d49c5395714e69b623b64c999f8c88139ef4658570ed264eb39d08347",
+    "e899e998cc42f9f1789920f1bb0a5a4d.txt": "06ce9360e41bf14b102cfa7d7c61f20139980305d2d9fe94f450daa66b85f789"
+  },
+  "revision": "f9056ce98150791db4499063bfcb4571ee7f2fdeba2ef458a3cb87324048ea62"
+}
